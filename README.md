@@ -13,6 +13,7 @@
 
 ### 👨‍💻: About Me :
 - :telescope: I’m a Software Engineer and contributing to backend for building web applications.
+- 👨‍🎓 Graduated Bachelor's student in Computer Engineering at Mohaghegh Ardabili University
 
 
 
