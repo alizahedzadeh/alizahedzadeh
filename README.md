@@ -14,7 +14,7 @@
 ### 👨‍💻: About Me :
 - :telescope: I’m a Software Engineer and Contributing to Backend for Building Web Applications.
 - 👨‍🎓 Graduated Bachelor's student in Computer Engineering at <a href="https://www.uma.ac.ir/"> Mohaghegh Ardabili University </a>
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ali-zahedzadeh)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/mail-red?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/ali-zahedzadeh)
 
 
 
