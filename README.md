@@ -1,4 +1,4 @@
-### My name is Ali Zahedzadeh 👋
+### Hi. My name is Ali Zahedzadeh 👋
 
 I am a Software Engineer
 
