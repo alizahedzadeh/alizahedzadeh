@@ -1,7 +1,5 @@
 ### Hi. My name is Ali Zahedzadeh 👋
 
-I am a Software Engineer
-
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ali-zahedzadeh/">
@@ -11,6 +9,12 @@ I am a Software Engineer
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+
+
+I am a Software Engineer
+
+
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
