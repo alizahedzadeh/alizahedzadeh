@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Ali Zahedzadeh , I am a Software Engineer.
 
+### :hammer_and_wrench: Languages and Tools :
+
 <!--
 **alizahedzadeh/alizahedzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
