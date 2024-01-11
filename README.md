@@ -13,7 +13,8 @@
 
 ### 👨‍💻: About Me :
 - :telescope: I’m a Software Engineer and Contributing to Backend for Building Web Applications.
-- 👨‍🎓 Graduated Bachelor's student in Computer Engineering at <a href="https://www.uma.ac.ir/"> Mohaghegh Ardabili University </a>
+- 👨‍🎓 Bachelor's Degree in Computer Engineering at <a href="https://www.uma.ac.ir/"> Mohaghegh Ardabili University </a>
+- 👨‍🎓 Master's Degree Student in Data Science at <a href="https://teias.institute/computer-science-department/"> Tehran Institute for Advanced Studies (TEIAS) </a>
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alizahedzadeh7@gmail.com)
 
 
